@@ -37,13 +37,13 @@
         android:layout_height="wrap_content"
         android:text="@string/key_manage" />
 
-    
+    <!--
          <Button
         android:id="@+id/help"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/help" />
-    
+    -->
 
     <Button
         android:id="@+id/exit"
