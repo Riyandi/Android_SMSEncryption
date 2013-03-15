@@ -1,7 +1,7 @@
-Android_SMSEncription
+Android_SMSEncryption
 =====================
 
-Source code of SMS Encription on Android
+Source code of SMS Encryption on Android
 
 original source code : https://github.com/rcythr/Masq
 
